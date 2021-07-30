@@ -7,7 +7,7 @@ from heart import love
 data = {
     "Name": "Musk-ID,
     "Location": "Subang, Jawa barat, Indonesia",
-    "Age": "17 Years Old",
+    "Age": "999 Years Old",
     "Bio": "Introvert Banget Orang Nya 😜",
 }
 
