@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230">
 
-### [🧒🏻 About Me](https://github.com/Musk-ID)
+## [🧒🏻 About Me](https://github.com/Musk-ID)
 
 ```js
 from heart import love
@@ -16,8 +16,8 @@ data = {
 
 donation = {
     "BTC": "1AFdsDvi2a393jP8m2xjpdmkfkCHLQmBNL",
-    "LTC": "",
-    "Doge": "",
+    "LTC": "MBBYjo4f5smYt1JYBWwrQrLucvu9DrgXFz",
+    "Doge": "D5oUA4BCbsT2o4BoZEmYKaRdTy6zK2qA6H",
 }
 ```
 
