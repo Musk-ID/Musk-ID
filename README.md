@@ -2,8 +2,8 @@
 
 <img align='right' src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230">
 
-## [🧒🏻 About Me](https://github.com/Musk-ID)
-
+## [🧒🏻•💻 About Me](https://github.com/Musk-ID)
+_____
 ```js
 from heart import love
 
@@ -20,7 +20,7 @@ donation = {
     "Doge": "D5oUA4BCbsT2o4BoZEmYKaRdTy6zK2qA6H",
 }
 ```
-
+_____
 ![](https://komarev.com/ghpvc/?username=Musk-ID&color=red)
 
 ![Aditia-Dtz github stats](https://github-readme-stats.vercel.app/api?username=Musk-ID&show_icons=true&theme=default)
