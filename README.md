@@ -2,16 +2,16 @@
 
 <img align='right' src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230">
 
-### [🧒🏻 About Me](https://github.com/Musk-ID)
 
+### [`👇 MY biodata`](https://ferdiz-afk.herokuapp.com)
 ```js
 form heart import love
 
 data = {
-     "Name": "Musk-ID,
-     "Title": "Programmer"
-     "Location": "Subang, Jawa barat, Indonesia",
-     "Age": "17 Years Old",
+    "Name": "Musk-ID,
+    "Bio": "Introvert Banget Orang Nya 😜"
+    "Location": "Subang, Jawa barat, Indonesia",
+    "Age": "17 Years Old",
 }
 
 donation = {
