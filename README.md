@@ -1,10 +1,17 @@
 ## Hai I'M , [Musk-ID'](https://github.com/Musk-ID) 👋
 
 <img align='right' src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230">
+```js
+form heart import love
+data = {
+"Name": "Musk-ID,
+"Address": "Subang, Jawa barat, Indonesia",
+"Age": "17 Years Old",
+```
 
 ![](https://komarev.com/ghpvc/?username=Musk-ID&color=red)
 
-Nico Nico knee..
+
 
 ![Aditia-Dtz github stats](https://github-readme-stats.vercel.app/api?username=Musk-ID&show_icons=true&theme=default)
 
