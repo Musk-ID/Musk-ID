@@ -1,13 +1,18 @@
-## Hai I'M , [Musk-ID'](https://github.com/Musk-ID) 👋
+## Hai I'M , [`Musk-ID'](https://github.com/Musk-ID) 👋
 
 <img align='right' src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230">
 
+### [`🧒🏻 • About Me`](https://github.com/Musk-ID)
+
 ```js
 form heart import love
+
 data = {
-"Name": "Musk-ID,
-"Address": "Subang, Jawa barat, Indonesia",
-"Age": "17 Years Old",
+     "Name": "Musk-ID,
+     "Title": "Programmer"
+     "Location": "Subang, Jawa barat, Indonesia",
+     "Age": "17 Years Old",
+}
 ```
 
 ![](https://komarev.com/ghpvc/?username=Musk-ID&color=red)
