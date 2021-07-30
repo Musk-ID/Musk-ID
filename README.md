@@ -1,25 +1,24 @@
 ## Hai I'M , [Musk-ID](https://github.com/Musk-ID) 👋
 
-<img align='right' src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230" 
-_____
-### [`🧒🏻 About Me`](https://ferdiz-afk.herokuapp.com)
+<img align='right' src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230">
+### [🧒🏻 About Me](https://github.com/Musk-ID)
+
 ```js
 from heart import love
 
 data = {
     "Name": "Musk-ID,
-    "Bio": "Introvert Banget Orang Nya 😜"
     "Location": "Subang, Jawa barat, Indonesia",
     "Age": "17 Years Old",
+    "Bio": "Introvert Banget Orang Nya 😜",
 }
 
 donation = {
-    "BTC": "",
+    "BTC": "1AFdsDvi2a393jP8m2xjpdmkfkCHLQmBNL",
     "LTC": "",
     "Doge": "",
 }
 ```
-_____
 
 ![](https://komarev.com/ghpvc/?username=Musk-ID&color=red)
 
