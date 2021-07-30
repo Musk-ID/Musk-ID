@@ -18,7 +18,7 @@ donation = {
 }
 ```
 ![](https://komarev.com/ghpvc/?username=Musk-ID&color=blue)
-<a href="mailto:idmusk99@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-idmusk99@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:idmusk99@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-idmusk99@gmail.com-red?style=flat-square&logo=gmail"></a>
 
 <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
