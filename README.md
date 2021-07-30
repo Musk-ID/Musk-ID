@@ -1,16 +1,14 @@
-### Hi there 👋
+## Uwo! , [Musk-ID']
+(https://github.com/Musk-ID) Here👋
 
-<!--
-**Musk-ID/Musk-ID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230">
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=dtz-aditia&color=red)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Nico Nico knee..
+
+![Aditia-Dtz github stats](https://github-readme-stats.vercel.app/api?username=dtz-aditia&show_icons=true&theme=default)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dtz-aditia&layout=compact)](https://github.com/Aditia-Dtz)
+
+ + https://t.me/aditia_dtz
