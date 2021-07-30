@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230">
 
-### [`💻 About Me`](https://github.com/Musk-ID)
+### [```💻 About Me```](https://github.com/Musk-ID)
 
 ```js
 form heart import love
