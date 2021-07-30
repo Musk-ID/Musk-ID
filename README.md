@@ -23,4 +23,4 @@ donation = {
 <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 ![Musk-ID github stats](https://github-readme-stats.vercel.app/api?username=Musk-ID&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Musk-ID&layout=compact)](https://github.com/Musk-ID)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Musk-ID&layout=compact)](https://github.com/Inkand)
