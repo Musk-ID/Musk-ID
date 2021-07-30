@@ -1,10 +1,9 @@
 ## Hai I'M , [Musk-ID](https://github.com/Musk-ID) 👋
 
 ## <img align='right' src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230">
-<p>___</p>
 
 > Hello, come back with me, don't forget to follow my github 😜
-```bash
+```perl
 from heart import love
 
 data = {
