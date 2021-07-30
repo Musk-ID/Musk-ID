@@ -3,7 +3,7 @@
 ## <img align='right' src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230"><br>
 
 > Hello, come back with me, don't forget to follow my github 😜
-```py
+```bash
 from heart import love
 
 data = {
