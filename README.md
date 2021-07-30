@@ -17,6 +17,6 @@ donation = {
     "Doge": "D5oUA4BCbsT2o4BoZEmYKaRdTy6zK2qA6H",
 }
 ```
-![](https://komarev.com/ghpvc/?username=Musk-ID&color=purple)
-![Mus-ID github stats](https://github-readme-stats.vercel.app/api?username=Musk-ID&show_icons=true&theme=default)
+![](https://komarev.com/ghpvc/?username=Musk-ID&color=red)
+![Mus-ID github stats](https://github-readme-stats.vercel.app/api?username=Musk-ID&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Musk-ID&layout=compact)](https://github.com/Musk-ID)
