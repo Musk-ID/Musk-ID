@@ -1,8 +1,6 @@
 ## Hai I'M , [Musk-ID](https://github.com/Musk-ID) 👋
 
 ## <img align='right' src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230">
-
-> Hello, come back with me, don't forget to follow my github 😜
 ```ruby
 from heart import love
 
@@ -19,7 +17,6 @@ donation = {
     "Doge": "D5oUA4BCbsT2o4BoZEmYKaRdTy6zK2qA6H",
 }
 ```
-_____
-![](https://komarev.com/ghpvc/?username=Musk-ID&color=green)
+![](https://komarev.com/ghpvc/?username=Musk-ID&color=purple)
 ![Mus-ID github stats](https://github-readme-stats.vercel.app/api?username=Musk-ID&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Musk-ID&layout=compact)](https://github.com/Musk-ID)
