@@ -2,9 +2,9 @@
 
 <img align='right' src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230">
 
-____
+<br>
 
-### [`👇 MY biodata`](https://ferdiz-afk.herokuapp.com)
+### [`🧒🏻 About Me`](https://ferdiz-afk.herokuapp.com)
 ```js
 form heart import love
 
