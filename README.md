@@ -13,12 +13,18 @@ data = {
      "Location": "Subang, Jawa barat, Indonesia",
      "Age": "17 Years Old",
 }
+
+donation = {
+    "BTC": "",
+    "LTC": "",
+    "Doge": "",
+}
 ```
 
 ![](https://komarev.com/ghpvc/?username=Musk-ID&color=red)
 
 ![Aditia-Dtz github stats](https://github-readme-stats.vercel.app/api?username=Musk-ID&show_icons=true&theme=default)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dtz-aditia&layout=compact)](https://github.com/Musk-ID)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Musk-ID&layout=compact)](https://github.com/Musk-ID)
 
  + https://t.me/aditia_dtz
