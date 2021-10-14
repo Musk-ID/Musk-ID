@@ -1,7 +1,6 @@
 ## Hai I'M , [Musk-ID](https://github.com/Musk-ID) 👋
-<img align='right' src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230">
-<p>Ini</p>
 
+## <img align='right' src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230">
 ```py
 from heart import love
 
