@@ -1,7 +1,7 @@
 ## Hai I'M , [Musk-ID](https://github.com/Musk-ID) 👋
-```py
-## <img align='right' src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230">
 
+## <img align='right' src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230">
+```bash
 from heart import love
 
 data = {
