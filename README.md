@@ -1,6 +1,6 @@
 ## Hai I'M , [Musk-ID](https://github.com/Musk-ID) 👋
 
-## <img align='right' src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230">
+<img align='right' src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230">
 
 ![](https://komarev.com/ghpvc/?username=Musk-ID&color=blue)
 <a href="mailto:idmusk99@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-idmusk99@gmail.com-red?style=flat-square&logo=gmail"></a>
