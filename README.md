@@ -6,11 +6,6 @@
 
 
 
-
-
-
-
-
 from heart import love
 
 data = {
